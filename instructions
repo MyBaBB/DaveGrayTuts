@@ -87,6 +87,23 @@ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h13m
              Contact us section
 https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h26m05s
 
-                       Break
+
+
+
+
+                 input.css @layer utilities
 https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h39m50s
  
+                    HERO SECTION
+@layer utilities {
+    .section-min-height{
+        min-height: calc(100vh - 68px);
+    }
+}   
+
+                           Tailwind.config.js  
+
+      screens: {
+         'widescreen':{ 'raw': '(min-aspect-ratio: 3/2)'},
+                  'tallscreen':{ 'raw': '(min-aspect-ratio: 1/2)'}
+                  }
