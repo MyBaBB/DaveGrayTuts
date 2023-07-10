@@ -1,5 +1,7 @@
-name this lesson03 when you save it.and save it in the root folder of the project.
-
+name this lesson04 when you save it.and save it in the root folder of the project.
+  
+   study css animation recap
+  
   check favicon location https://www.youtube.com/watch?v=lCxcTsOHrjo&t=27m02s
 
 Tailwind Instructions on setup per Dave Gray. At 25 minutes on lesson02 Tailwind Video.
@@ -107,3 +109,32 @@ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h39m50s
          'widescreen':{ 'raw': '(min-aspect-ratio: 3/2)'},
                   'tallscreen':{ 'raw': '(min-aspect-ratio: 1/2)'}
                   }
+
+
+
+
+
+  xxxxxxx          
+
+                  next is Chapter 4 of 5
+                  Animation of Hamburger menu 
+                  and Mobile Menu.
+                  
+https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h45m45s
+
+                      Hamburger menu
+https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h50m50s
+
+                          Tailwind
+   https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h    
+          
+    keyframes: {
+      'open-menu': {
+        '0%':{transform: 'scaley(0)'},
+        '80%':{transform: 'scaley(01.2)'},
+        '100%':{transform: 'scaley(1)'},
+      },
+    },
+    animation: {
+      'open-menu': 'open-menu 0.5s ease-in-out forwards',}
+           
