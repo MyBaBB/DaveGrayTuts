@@ -1,23 +1,28 @@
-/** @type {import('tailwindcss').Config} */
+ /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./build/*html'],
+  content: ["./build/*.html", "./build/js/*.js"],
   theme: {
     extend: {
-      screens:{
+      screens: {
          'widescreen': { 'raw': '(min-aspect-ratio: 3/2)'},
          'tallscreen': { 'raw': '(min-aspect-ratio: 13/20)'},
     },
     keyframes: {
       'open-menu': {
-        '0%':{transform: 'scaley(0)'},
-        '80%':{transform: 'scaley(01.2)'},
-        '100%':{transform: 'scaley(1)'},
-      },
+        '0%':{ transform: 'scaleY(0)' },
+        '80%':{ transform: 'scaleY(01.2)' },
+        '100%':{ transform: 'scaleY(1)' },
+      
     },
+  },
+ 
+  
     animation: {
       'open-menu': 'open-menu 0.5s ease-in-out forwards',
+   }
   },
-  },
+},
   plugins: [],
 }
 
+ 

@@ -74,7 +74,8 @@ I think that this  is  set up. going to make a copy here.
 
          Next is timestamp of 
                Chapter II
-
+ 
+               
 https://www.youtube.com/watch?v=lCxcTsOHrjo&t=22m27s
 
 
@@ -120,21 +121,36 @@ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h39m50s
                   Animation of Hamburger menu 
                   and Mobile Menu.
                   
+
+
+
 https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h45m45s
 
-                      Hamburger menu
+
+
+
+                       Hamburger menu  
+                       
 https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h50m50s
 
+
+
+
                           Tailwind
+
+                     
    https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h    
           
     keyframes: {
-      'open-menu': {
-        '0%':{transform: 'scaley(0)'},
-        '80%':{transform: 'scaley(01.2)'},
-        '100%':{transform: 'scaley(1)'},
-      },
-    },
-    animation: {
-      'open-menu': 'open-menu 0.5s ease-in-out forwards',}
-           
+    animation of hamburger-button
+       and add animation to html    
+    don't forget
+    js insert in html file
+
+
+                  Hamburger menu
+    https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h20m  
+
+                    CUSTOMIZE TAILWINDCSS
+                  arbitrary values  " @apply"
+   https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h20m48s        NOTE IT WHEN FOR OTHER USERS.
