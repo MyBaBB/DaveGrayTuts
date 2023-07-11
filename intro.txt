@@ -1,3 +1,7 @@
+
+
+
+
 name this lesson04 when you save it.and save it in the root folder of the project.
   
    study css animation recap
@@ -154,3 +158,11 @@ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h50m50s
                     CUSTOMIZE TAILWINDCSS
                   arbitrary values  " @apply"
    https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h20m48s        NOTE IT WHEN FOR OTHER USERS.
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                             
