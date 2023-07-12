@@ -161,8 +161,15 @@ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=1h50m50s
                                    
                                    
                                    
-                                   
-                                   
-                                   
-                                   
-                             
+             https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h44m40s 
+
+tailwind config add a color with extend is the best way
+to add a color in the project.
+                theme:
+                    extend:                   
+                       colors: 
+
+                   launch project
+                       
+
+ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h44m40s 
