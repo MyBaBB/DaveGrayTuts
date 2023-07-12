@@ -172,4 +172,9 @@ to add a color in the project.
                    launch project
                        
 
- https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h44m40s 
+ https://www.youtube.com/watch?v=lCxcTsOHrjo&t=2h50m40s
+
+ push to github from command line 
+
+
+Render.com
