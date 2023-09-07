@@ -1,3 +1,5 @@
 # DaveGrayTuts
 TailwindTut's
-This is where Dave Gray's lesson 02 will be hosted and probably kept as the new junk repository because I am getting cluttered with empty repositories.
+I highly recommend anything that Dave Gray Teaches,  I would start with him first and take you time to study everything that he does and write it down.
+When your finished and beginnig actually writing code, only then will you realize how much Dave Has Delivered. Then check out the others. Start with Dave.  Thanks Dave Gray.
+
